@@ -19,11 +19,13 @@ A fully playable Pacman clone built with Python and Pygame.
 | Space | Restart (after game over/win) |
 
 ## Project Structure
-pacman.py       # Main game loop, player & ghost logic
-board.py        # Tile map definition (33x30 grid)
-assets/
-    player_images/   # Directional Pacman sprites (1-4)
-    ghost_images/    # Ghost sprites (red, pink, blue, orange, powerup, dead)
+```
+├── pacman.py            # Main game loop, player & ghost logic
+├── board.py             # Tile map definition (33x30 grid)
+└── assets/
+    ├── player_images/   # Directional Pacman sprites (1-4)
+    └── ghost_images/    # Ghost sprites (red, pink, blue, orange, powerup, dead)
+```
 
 ## Requirements
 pip install pygame
