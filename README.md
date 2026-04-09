@@ -44,5 +44,5 @@ python pacman.py
 - Python 3
 - Pygame
 
-## Demo
+## 🎥 Demo
 [![Pacman Demo](https://img.youtube.com/vi/7zfSZHZeoTo/0.jpg)](https://youtube.com/shorts/7zfSZHZeoTo)
