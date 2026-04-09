@@ -38,4 +38,4 @@ python pacman.py
 - Pygame
 
 ## Demo
-[![Pacman Demo](https://img.youtube.com/vi/sP-CH2rKfqo/0.jpg)](https://youtu.be/sP-CH2rKfqo)
+[![Pacman Demo](https://img.youtube.com/vi/7zfSZHZeoTo/0.jpg)](https://youtube.com/shorts/7zfSZHZeoTo)
