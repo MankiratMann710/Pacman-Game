@@ -1,6 +1,6 @@
 # Pacman 👾
 
-A fully playable Pacman clone built with Python and Pygame.
+A fully playable Pacman clone built with Python and Pygame, recreating the classic arcade experience with all original ghosts, power-ups, and game mechanics.
 
 ## Features
 - Classic Pacman gameplay with all 4 ghosts: Blinky, Pinky, Inky, and Clyde
@@ -17,6 +17,13 @@ A fully playable Pacman clone built with Python and Pygame.
 |-----|--------|
 | ← → ↑ ↓ | Move Pacman |
 | Space | Restart (after game over/win) |
+
+## What I Learned
+- How to structure a game loop and manage frame-rate with Pygame's clock
+- Implementing tile-based collision detection using a 2D grid
+- Designing individual AI movement logic for multiple enemies with different behaviors
+- Managing game state (lives, score, power-ups, win/loss conditions) across a full session
+- Working with sprite sheets, image scaling, and rendering in a real-time environment
 
 ## Project Structure
 ```
